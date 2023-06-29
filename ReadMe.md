@@ -26,6 +26,10 @@ BOT_TOKEN=<Your Bot Token>
 1. Note that once you turn off the bot, all the event information is lost. (This might be a feature to be added in the future)
 
 
+### Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/romascha/PythonCountDown)
+
 # Contributing to the Project
 
 Feel free to send in a pull request.
