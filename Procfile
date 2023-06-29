@@ -1,0 +1,1 @@
+web: python3 Bot/__main__.py
